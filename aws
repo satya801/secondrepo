@@ -1,0 +1,7 @@
+git clone 
+git pull
+git push
+git push origin --all
+https and ssh connection 
+ssh-keygen and keep on enter and open .ssh folder and and open cat id_rsa.pub and copy the public key and paste in settings ssh paste it and save it
+and you can clone through ssh url -- git clone url(ssh)
